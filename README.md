@@ -1,5 +1,5 @@
-Olázinho! wave Sou o Elyshow!
+Minha mente pra sua mente
+Olá! wave Sou o Elyshow!
 
-telescope Quero trabalhar com desenvolvimento
-seedling Estou estudando Java e JavaScript
-zap Fato interessante: Sou Geek!
+trabalhar com desenvolvimento
+ Fato interessante: Sou Geek e Nerd!
